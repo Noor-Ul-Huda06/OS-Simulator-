@@ -55,7 +55,3 @@ The project is organized into several modules, each handling different aspects o
 - **Music Player**: Play background music.
 - **Notepad**: Create and save text files.
 - **System Monitor**: Monitor system resource usage.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
