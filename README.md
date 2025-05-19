@@ -1,5 +1,25 @@
 # OS-Simulator
+
 A custom Operating System Simulator designed to mimic the functionalities of a real operating system. This project provides a hands-on experience with process management, resource allocation, CPU scheduling, and multitasking with an interactive interface.
+
+## Project Structure
+
+The project is organized into several modules, each handling different aspects of the operating system simulation:
+
+- **build/**: Contains compiled object files.
+- **include/**: Contains header files for the project.
+  - `OSSystem.h`
+  - `Process.h`
+  - `ResourceManager.h`
+  - `Scheduler.h`
+- **src/**: Contains the source code for the project.
+  - `OSSystem.cpp`
+  - `Process.cpp`
+  - `ResourceManager.cpp`
+  - `Scheduler.cpp`
+  - `main.cpp`
+- **tasks/**: Contains a Makefile for building the project.
+  - `Makefile`
 
 ## Project Details
 
@@ -25,3 +45,17 @@ A custom Operating System Simulator designed to mimic the functionalities of a r
 ### Interactive Interface
 - **User-Friendly Menu**: Navigate through different options with a colorful and intuitive menu system.
 - **Real-Time Monitoring**: Monitor the status and resource usage of running processes in real-time.
+
+### Additional Functionalities
+- **Calculator**: Perform basic arithmetic operations.
+- **Calendar**: View the current month's calendar.
+- **Clock**: Display the current time.
+- **File Manager**: Create, move, copy, delete, and view file information.
+- **Minesweeper**: Play a simplified version of Minesweeper.
+- **Music Player**: Play background music.
+- **Notepad**: Create and save text files.
+- **System Monitor**: Monitor system resource usage.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
