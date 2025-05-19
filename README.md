@@ -1,7 +1,4 @@
-# OS-Simulator-
-A custom OS simulator featuring process management, resource allocation, CPU scheduling, and multitasking with an interactive interface.
 # OS-Simulator
-
 A custom Operating System Simulator designed to mimic the functionalities of a real operating system. This project provides a hands-on experience with process management, resource allocation, CPU scheduling, and multitasking with an interactive interface.
 
 ## Project Details
